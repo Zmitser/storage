@@ -2,7 +2,7 @@ package storage
 
 import (
 	"fmt"
-	"github.com/Zmitser/storage/v2/internal/file"
+	"github.com/Zmitser/storage/internal/file"
 	"github.com/google/uuid"
 )
 

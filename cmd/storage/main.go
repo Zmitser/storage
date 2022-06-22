@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Zmitser/storage/v2/internal/storage"
+	"github.com/Zmitser/storage/internal/storage"
 	"log"
 )
 
