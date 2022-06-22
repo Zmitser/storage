@@ -1,4 +1,4 @@
-module github.com/Zmitser/storage
+module github.com/Zmitser/storage/v2
 
 go 1.18
 
